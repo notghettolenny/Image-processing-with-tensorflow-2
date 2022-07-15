@@ -1,4 +1,4 @@
-from libs import utils
+from libs import util
 from skimage import data
 from skimage.transform import resize
 import tensorflow as tf 
