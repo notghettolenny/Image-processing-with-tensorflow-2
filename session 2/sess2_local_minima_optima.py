@@ -1,4 +1,4 @@
-from mpl_toolkits.mplot3d import axes3
+from mpl_toolkits.mplot3d import axes3d
 from matplotlib import cm
 import tensorflow as tf
 import numpy as np 
